@@ -6,4 +6,4 @@ Answers questions by provided context using similarity search. Retrieves article
 
 **Topic:** Leo Tolstoy
 
-**Answer:** Leo Tolstoy was born on 9 September [O.S. 28 August] 1828.
+**Answer:** (retrieved context) ...Leo Tolstoy was born on 9 September [O.S. 28 August] 1828.
