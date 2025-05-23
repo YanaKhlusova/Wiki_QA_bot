@@ -1,0 +1,9 @@
+langchain
+langchain_community
+transformers
+bitsandbytes
+accelerate
+sentence-transformers
+faiss-cpu
+wikipedia
+huggingface_hub
